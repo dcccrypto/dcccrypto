@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=khubair-nazir&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=dcccrypto&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -89,16 +89,16 @@
 
 <!-- Replace with a reliable GitHub statistics card -->
 <div align="center">
-  <a href="https://github.com/khubair-nazir">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khubair-nazir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <a href="https://github.com/dcccrypto">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dcccrypto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-  <a href="https://github.com/khubair-nazir">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khubair-nazir&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/dcccrypto">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dcccrypto&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khubair-nazir&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dcccrypto&theme=tokyonight&hide_border=true"/>
 </div>
 
 <hr>
@@ -132,7 +132,7 @@
   <a href="https://linkedin.com/in/your_linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/khubair-nazir">
+  <a href="https://github.com/dcccrypto">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -145,8 +145,8 @@
 <!-- Simple contribution graph that's more reliable -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khubair-nazir/khubair-nazir/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khubair-nazir/khubair-nazir/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/khubair-nazir/khubair-nazir/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dcccrypto/dcccrypto/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dcccrypto/dcccrypto/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dcccrypto/dcccrypto/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
